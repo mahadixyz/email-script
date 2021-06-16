@@ -9,7 +9,8 @@ Download the PHP Mail Class from PHPMailer [Github Repo](https://github.com/PHPM
 Select the stable branch and download/clone.
 Use the **class.phpmailer.php** and **class.smtp.php** for SMTP Mail Connection.
 
-# Error: SMTP connect() failed
+# Problems and soluitions
+## Error: SMTP connect() failed
 
 ### On localhost, 
 _In case of using a gmail account, "Less secure Apps" setting must be enabled._ To enable, visit https://www.google.com/settings/security/lesssecureapps and set the **Allow less secure apps:** option to **ON**
